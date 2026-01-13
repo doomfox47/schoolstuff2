@@ -4,5 +4,7 @@ using namespace std;
 
 int main()
 {
-  int inches = cin << "";
+  int inches; 
+  cout << "enter inches: ";
+  cin >> inches;
 }
