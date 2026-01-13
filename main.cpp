@@ -8,5 +8,7 @@ int main()
   cout << "enter inches: ";
   cin >> inches;
   int miles;
+  int yards;
   int feet;
+  
 }
