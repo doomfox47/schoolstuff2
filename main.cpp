@@ -10,5 +10,9 @@ int main()
   int miles;
   int yards;
   int feet;
-  
+  feet = inches /12;
+  inches = inches %12;
+  yards = feet/3;
+  feet = feet%3;
+  milles = yards/
 }
