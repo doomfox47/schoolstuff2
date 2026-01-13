@@ -16,4 +16,8 @@ int main()
   feet = feet % 3;
   miles = yards / 1760;
   yards = yards % 1760;
+  cout << "mile(s): " << miles<< endl;
+  cout << "yard(s): " << yards<< endl;
+  cout << "feet: " << feet<< endl;
+  cout << "inch(es): " << inches<< endl;
 }
